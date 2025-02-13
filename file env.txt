@@ -1,0 +1,3 @@
+LDAP_SERVER=DC00.example.com
+LDAP_BASE_DN=OU=Hbe,DC=example,DC=com
+LDAP_GROUP_DN=CN=Admin,OU=Hbe,DC=example,DC=com
